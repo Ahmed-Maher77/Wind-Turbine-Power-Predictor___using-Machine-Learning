@@ -514,9 +514,9 @@ table {
     background-color: var(--whiteColor);
     border-radius: 10px;
     text-align: center;
-    padding: 100px 0 20px;
+    padding: 100px 20px 20px;
     position: relative;
-    transition: 0.5s
+    transition: 0.5s;
 }
 #members .card:hover {
     box-shadow: -1px 3px 15px 0px #6d646452;
