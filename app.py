@@ -2,15 +2,22 @@ from flask import Flask, request, render_template
 import pandas as pd
 from datetime import datetime
 import joblib
+import sys
+import os
+
+# Add the current directory to Python path to ensure classes are available
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+# Import the pipeline classes
 from pipe import FullPipeline1, LabelEncodeColumns, CustomOneHotEncoder, DropColumnsTransformer, OutlierThresholdTransformer, DateExtractor, DataFrameImputer, StandardScaleTransform
 
 app = Flask(__name__)
 
 # Load the trained model
-model = joblib.load('one_hot_model.pkl')
+model = joblib.load('one_hot_model_fixed.pkl')
 
 # Load the preprocessing pipeline
-pipeline = joblib.load('one_hot_pipeline.pkl')
+pipeline = joblib.load('one_hot_pipeline_fixed.pkl')
 
 # Route for the home page
 @app.route('/')
