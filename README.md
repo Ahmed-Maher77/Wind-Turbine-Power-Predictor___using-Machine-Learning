@@ -4,9 +4,7 @@ This project involves the development of a machine learning model deployed on a 
 
 <hr>
 
-🌐 **Demo (Live Preview):** <a href="https://mlwindturbine.pythonanywhere.com/" target="_blank">https://mlwindturbine.pythonanywhere.com/</a>
-<br><br>
-🔍 **Jupyter Notebook (ML Code):** <a href="https://www.kaggle.com/code/ahmedmaheralgohary/wind-turbine-eda-and-modeling" target="_blank">https://www.kaggle.com/code/ahmedmaheralgohary/wind-turbine-eda-and-modeling</a>
+🔍 **Jupyter Notebook (ML Code):** <a href="https://www.kaggle.com/code/ahmedmaheralgohary/wind-turbine-eda-and-modeling" target="_blank">open on kaggle</a>
 <br><br>
 📱 **To install the mobile app version:** <a href="https://drive.google.com/file/d/1DFMO0pfjFU0LZvGnnbihTqnHTmprtnVz/view?usp=sharing" target="_blank">from here</a>
 
@@ -17,10 +15,7 @@ This project involves the development of a machine learning model deployed on a 
 <hr>
 
 ## 👀 Website Preview:
-
-<a href="website-url" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
-</a>
+<img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 
 <hr>
 
