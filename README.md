@@ -1,17 +1,26 @@
 # Wind Turbine Power Predictor
 This project involves the development of a machine learning model deployed on a web application to predict the power output of a wind turbine. The model utilizes real-time environmental and operational data sourced from a wind turbine's Supervisory Control and Data Acquisition (SCADA) system in Turkey. Features such as wind speed, wind direction, and theoretical power curve are analyzed to optimize wind turbine performance and enhance energy production efficiency. By integrating the model into a web application, users can access predictions and insights remotely, facilitating informed decision-making and promoting the sustainable utilization of renewable energy resources.
 
-<br>
+<hr>
 
-**Used Technologies:** Python - Flask Framework - JSON - JavaScript - HTML/HTML5 - CSS/CSS3 - PWA - Python Libraries (pandas - numpy - matplotlib - seaborn - sklearn - catboost - xgboost) - ML Algorithms (GradientBoostingRegressor - SVR - RandomForestRegressor - LinearRegression - ExtraTreesRegressor - AdaBoostRegressor - DecisionTreeRegressor - XGBRegressor - XGBRFRegressor - CatBoostRegressor) 
-<br><br>
 **Demo (Live Preview):** <a href="https://mlwindturbine.pythonanywhere.com/" target="_blank">https://mlwindturbine.pythonanywhere.com/</a> 
 <br><br>
 **Jupyter Notebook (ML Code):** <a href="https://www.kaggle.com/code/ahmedmaheralgohary/wind-turbine-eda-and-modeling" target="_blank">https://www.kaggle.com/code/ahmedmaheralgohary/wind-turbine-eda-and-modeling</a>
 <br><br>
 **To install the mobile app version:** <a href="https://drive.google.com/file/d/1DFMO0pfjFU0LZvGnnbihTqnHTmprtnVz/view?usp=sharing" target="_blank">from here</a> 
 
-<br>
+<hr>
+
+**Used Technologies:** Python - Flask Framework - JSON - JavaScript - HTML/HTML5 - CSS/CSS3 - PWA - Python Libraries (pandas - numpy - matplotlib - seaborn - sklearn - catboost - xgboost) - ML Algorithms (GradientBoostingRegressor - SVR - RandomForestRegressor - LinearRegression - ExtraTreesRegressor - AdaBoostRegressor - DecisionTreeRegressor - XGBRegressor - XGBRFRegressor - CatBoostRegressor) 
+
+<hr>
+
+## 👀 Website Preview:
+<a href="website-url" title="demo">
+  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+</a>
+
+<hr>
 
 ## Key Features:
 - <strong>Machine Learning Model</strong>: Utilizes advanced algorithms to predict wind turbine power output.
@@ -20,7 +29,7 @@ This project involves the development of a machine learning model deployed on a 
 - <strong>Enhanced Decision-Making</strong>: Empowers users with actionable insights to optimize turbine operations.
 - <strong>Promotes Sustainability</strong>: Encourages the eco-friendly use of renewable energy resources.
 
-<br>
+<hr>
 
 ## Web Application Features:
 - <b>Responsive Design:</b> Seamlessly accessible across various devices.
@@ -35,7 +44,17 @@ This project involves the development of a machine learning model deployed on a 
 - <b>Email Integration:</b> Automatically sends an email after the form is submitted, using EmailJS, to streamline communication with users.
 - <b>Form Validation:</b> Ensures all required fields are filled out and inputs are correctly formatted before submission. This includes validation for email format and other user inputs.
 
-<br>
+<hr>
+
+### 📥 Installation Instructions for Local Setup:
+To download and run this project locally:
+1. <br/>
+=> <br/>
+=> <br/>
+2. <br/>
+=> <br/>
+
+<hr>
 
 ## Contributors:
 - <strong>Ahmed Maher Algohary</strong> (Me) &nbsp;  <a href="https://www.linkedin.com/in/ahmed-maher-algohary/" title="Go To LinkedIn"><img src="https://github.com/Ahmed-Maher77/Wind-Turbine-Power-Prediction-App-using-Machine-Learning/assets/112467034/e9c5daf1-2ffb-4314-98c7-c5b7ef9f4ca2" alt="Go To LinkedIn" width="15"> LinkedIn</a>
@@ -46,3 +65,13 @@ This project involves the development of a machine learning model deployed on a 
 - <strong>Mohamed Khedr</strong> &nbsp;  <a href="https://www.linkedin.com/in/mohamed-khedr-6a2408220/" title="Go To LinkedIn"><img src="https://github.com/Ahmed-Maher77/Wind-Turbine-Power-Prediction-App-using-Machine-Learning/assets/112467034/e9c5daf1-2ffb-4314-98c7-c5b7ef9f4ca2" alt="Go To LinkedIn" width="15"> LinkedIn</a>
 - <strong>Peter Nabil</strong> &nbsp;  <a href="https://www.linkedin.com/in/peter-nabil-871884282/" title="Go To LinkedIn"><img src="https://github.com/Ahmed-Maher77/Wind-Turbine-Power-Prediction-App-using-Machine-Learning/assets/112467034/e9c5daf1-2ffb-4314-98c7-c5b7ef9f4ca2" alt="Go To LinkedIn" width="15"> LinkedIn</a>
 - <strong>Mahmoud Elspaiy</strong>
+
+
+<hr/>
+
+## 📬 Contact & Contribution
+- 🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
+- 📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
+
+> Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
