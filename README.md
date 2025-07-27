@@ -14,8 +14,7 @@ Python - Flask Framework - JSON - JavaScript - HTML/HTML5 - CSS/CSS3 - PWA - Pyt
 <hr>
 
 ## 👀 Website Preview:
-
-<img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+<img src="https://github.com/user-attachments/assets/6e6890d6-3c9f-4c05-b1c7-dbe1144a3e8c" alt="website preview - UI Mockup" width="400">
 
 <hr>
 
