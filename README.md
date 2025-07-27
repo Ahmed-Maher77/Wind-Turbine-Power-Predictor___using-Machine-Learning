@@ -5,16 +5,16 @@ This project involves the development of a machine learning model deployed on a 
 <hr>
 
 🔍 **Jupyter Notebook (ML Code):** <a href="https://www.kaggle.com/code/ahmedmaheralgohary/wind-turbine-eda-and-modeling" target="_blank">open on kaggle</a>
-<br><br>
-📱 **To install the mobile app version:** <a href="https://drive.google.com/file/d/1DFMO0pfjFU0LZvGnnbihTqnHTmprtnVz/view?usp=sharing" target="_blank">from here</a>
 
 <hr>
 
-**Used Technologies:** Python - Flask Framework - JSON - JavaScript - HTML/HTML5 - CSS/CSS3 - PWA - Python Libraries (pandas - numpy - matplotlib - seaborn - sklearn - catboost - xgboost) - ML Algorithms (GradientBoostingRegressor - SVR - RandomForestRegressor - LinearRegression - ExtraTreesRegressor - AdaBoostRegressor - DecisionTreeRegressor - XGBRegressor - XGBRFRegressor - CatBoostRegressor)
+## **Used Technologies:** 
+Python - Flask Framework - JSON - JavaScript - HTML/HTML5 - CSS/CSS3 - PWA - Python Libraries (pandas - numpy - matplotlib - seaborn - sklearn - catboost - xgboost) - ML Algorithms (GradientBoostingRegressor - SVR - RandomForestRegressor - LinearRegression - ExtraTreesRegressor - AdaBoostRegressor - DecisionTreeRegressor - XGBRegressor - XGBRFRegressor - CatBoostRegressor)
 
 <hr>
 
 ## 👀 Website Preview:
+
 <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 
 <hr>
@@ -229,9 +229,9 @@ streamlit run app.py
 -   Enable caching for static assets
 -   Optimize image sizes for faster loading
 
-<hr>
+<!-- <hr> -->
 
-## 🤝 Contributing:
+<!-- ## 🤝 Contributing:
 
 We welcome contributions! Here's how you can help:
 
@@ -256,13 +256,7 @@ black .
 
 # Lint code
 flake8
-```
-
-<hr>
-
-## 📄 License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+``` -->
 
 <hr>
 
@@ -287,6 +281,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
 
+<hr>
+
+## 📄 License:
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 <div align="center">
